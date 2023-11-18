@@ -34,6 +34,6 @@
     name: 'Juan',
     lastName: 'Perez',
   };
-  const rta = { person, limit };
-  console.log(rta);
+  // const rta = { person, limit };
+  // console.log(rta);
 })();
